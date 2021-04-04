@@ -1,0 +1,4 @@
+train: /kaggle/input/dhakaaiyoloformatteddataset/yolov5_formetted_dataset/images/train
+val: /kaggle/input/dhakaaiyoloformatteddataset/yolov5_formetted_dataset/images/val
+nc: 22
+names: ["ambulance","auto rickshaw", "bicycle"," bus", "car", "garbagevan", "human hauler", "minibus", "minivan", "motorbike", "Pickup", "army vehicle", "policecar", "rickshaw", "scooter", "suv", "taxi", "three wheelers (CNG)", "truck" , "van" , "wheelbarrow", "person"]
